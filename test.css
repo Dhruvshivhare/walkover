@@ -97,4 +97,8 @@ right: 50px;
 height: 50px;
 width: 100px;
 }
-
+.forms{
+  text-align: center;
+  margin: 1em;
+  padding: 1em;
+}
